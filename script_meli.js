@@ -1,11 +1,12 @@
 // const { info } = require('console');
+import fetch from "./node_modules/node-fetch/@types/index";
 
 const tabla = document.querySelector("#res");
 
 function funcionLlamar () {
     let info;
     let info2;
-    fetch('https://api.mercadolibre.com/sites/MLA/search?seller_id=81644614')
+    fetch('https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326')
         .then((response) => response.json())
         .then(data => {
             console.log(data.results)

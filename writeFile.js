@@ -3,7 +3,7 @@
 const { default: axios } = require("axios");
 
 //let infotxt;
-axios('https://api.mercadolibre.com/sites/MLA/search?seller_id=81644614')
+axios('https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326')
         .then(response => response.data)
         .then(data => {
             const script_meli = data.results.map(el => {
