@@ -1,5 +1,5 @@
-// const { info } = require('console');
-import fetch from "./node_modules/node-fetch/@types/index";
+//const { info } = require('console');
+//import fetch from "./node_modules/node-fetch/@types/index";
 
 const tabla = document.querySelector("#res");
 

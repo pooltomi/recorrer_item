@@ -6,14 +6,9 @@ Script para consultar información masivamente
 
 1. Clonar proyecto
 2. Ir a la carpeta del proyecto "recorrer_items"
+3. Correr con navegador
 
-
-### Instalación :mechanic:
-1. Correr Script e instalar dependencias "npm install"
-2. Ejecutar en la terminal empezando por el archivo de node "writeFile"
-
-
- ## Construido con :tools:
+ ## Construido con:
  JavaScript
  HTML
 
