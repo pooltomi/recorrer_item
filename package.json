@@ -1,0 +1,20 @@
+{
+    "name": "recorrer_item",
+    "version": "1.0",
+    "description": "Script",
+    "main": "index.js",
+    "scripts": {
+      "start": "nodemon index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pooltomi/recorrer_item"
+    },
+    "author": "PoolTomi",
+    "license": "The MIT License",
+    "homepage": "https://github.com/pooltomi/recorrer_item#readme",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "nodemon": "^2.0.7"
+    }
+  }
