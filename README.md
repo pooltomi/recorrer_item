@@ -8,7 +8,7 @@ Script para consultar información masivamente
 2. Ir a la carpeta del proyecto "recorrer_items"
 3. Correr con navegador
 
-## Construido con :tools:
+## Construido con:
  JavaScript
  HTML
 
