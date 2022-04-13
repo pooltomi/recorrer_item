@@ -5,10 +5,10 @@ Script para consultar información masivamente
 ## Comenzando :rocket:
 
 1. Clonar proyecto
-2. Ir a la carpeta del proyecto "recorrer_items"
-3. Correr con navegador
+2. Ir a la carpeta del proyecto "Mercado Libre recorre items"
+3. Correr con el navegador
 
- ## Construido con:
+## Construido con:
  JavaScript
  HTML
 
