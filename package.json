@@ -1,20 +1,21 @@
 {
     "name": "recorrer_item",
-    "version": "1.0",
-    "description": "Script",
+    "version": "1.0.0",
+    "description": "",
     "main": "index.js",
     "scripts": {
-      "start": "nodemon index.js"
+        "start": "nodemon index.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pooltomi/recorrer_item"
+        "type": "git",
+        "url": "git+https://github.com/pooltomi/recorrer_item"
     },
     "author": "PoolTomi",
     "license": "The MIT License",
     "homepage": "https://github.com/pooltomi/recorrer_item#readme",
     "dependencies": {
-      "axios": "^0.21.1",
-      "nodemon": "^2.0.7"
+        "axios": "^0.21.1",
+        "node-fetch": "^3.2.3",
+        "nodemon": "^2.0.7"
     }
-  }
+}
